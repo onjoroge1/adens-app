@@ -1,0 +1,28 @@
+/* Heart of the matter */
+@media (min-width: 768px ) {
+    .col-sm-double-width {
+      margin-right: -100%;
+      width: 200%;
+    }
+  }
+  
+  /* Decorations */
+  .container {
+    margin-top: 14px;
+  }
+  .col-a,
+  .col-b,
+  .col-c {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+    min-height: 80px;
+    padding-top: 6px; 
+  }
+  .col-a { background: #9c6; height: 660px; font-size: 450px;bottom: 50px;}
+  .col-b { background: #f93; }
+  .col-c { background: #69c; }
+  a:link {
+    text-decoration: none;
+  }
+  
